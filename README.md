@@ -31,7 +31,7 @@ CollectSphere is an immersive 3D gallery platform for showcasing and sharing you
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/collectsphere.git
+   git clone https://github.com/azeasz/threejs-mygallery-collectsphere.git
    ```
 
 2. Install dependencies:
