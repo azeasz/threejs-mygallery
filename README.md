@@ -2,7 +2,6 @@
 
 CollectSphere is an immersive 3D gallery platform for showcasing and sharing your digital collections. Built with React, Three.js, and modern web technologies, it provides a unique way to display Minecraft mods, Steam libraries, Spotify playlists, and YouTube collections in interactive 3D environments.
 
-![CollectSphere Preview](https://images.pexels.com/photos/1261824/pexels-photo-1261824.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750)
 
 ## Features
 
